@@ -7,5 +7,5 @@ class Triangle
     @scalene = sc
   end
 
-  
+
 end

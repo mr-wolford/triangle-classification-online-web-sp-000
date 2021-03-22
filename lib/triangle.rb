@@ -7,5 +7,11 @@ class Triangle
     @scalene = sc
   end
 
+  def kind
+  end
+
+  class TriangleError < StandardError
+  end
+
 
 end
